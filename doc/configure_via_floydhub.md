@@ -89,6 +89,7 @@ files present in the repo. We have made those videos available as a [dataset](ht
 on Floyd. You can just refer to it using the `--data` paramter when running your project.
 
 ```sh
+rm *.mp4
 floyd run --mode jupyter --data MmSYSyWoZ63nQeTxmrhGRQ
 ```
 
