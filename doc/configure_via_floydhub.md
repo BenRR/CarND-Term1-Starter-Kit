@@ -35,6 +35,9 @@ More info on installation is available [here](http://docs.floydhub.com/home/gett
 
 - Use the [floyd login](http://docs.floydhub.com/commands/login/) command in the cli to login to FloydHub.
 
+```sh
+floyd login
+```
 ---
 
 ### Run your code on Floyd
