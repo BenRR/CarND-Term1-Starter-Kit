@@ -6,7 +6,20 @@ The purpose of this project is to provide unified software dependency support fo
 
 Python 3 is used for entirety of term 1.
 
-There are two ways to get up and running:
+There are three ways to get up and running:
+
+## [FloydHub](doc/configure_via_floydhub.md)
+
+Get started [here](doc/configure_via_floydhub.md). More info [here](https://www.floydhub.com).
+
+Supported Systems : AWS (CPU, [GPU](doc/docker_for_aws.md))
+
+| Pros                                    | Cons                                 |
+|-----------------------------------------|--------------------------------------|
+| Simple to use                           | No local environment                 |
+| Zero setup (managed service)            | |
+| AWS, GPU support                        | |
+| Cheaper than AWS (pay only for runtime) | |
 
 ## [Anaconda Environment](doc/configure_via_anaconda.md)
 
@@ -31,17 +44,3 @@ Supported Systems : AWS (CPU, [GPU](doc/docker_for_aws.md)), Linux (CPU), Mac (C
 | Configure once for all environments | More challenging to use              |
 | AWS, GPU support                    | Less community support               |
 | Practice with Docker              | Have to manage images and containers |
-|                                     |                                      |
-
-## [FloydHub](doc/configure_via_floydhub.md)
-
-Get started [here](doc/configure_via_floydhub.md). More info [here](https://www.floydhub.com).
-
-Supported Systems : AWS (CPU, [GPU](doc/docker_for_aws.md))
-
-| Pros                                    | Cons                                 |
-|-----------------------------------------|--------------------------------------|
-| Simple to use                           | No local environment                 |
-| Zero setup (managed service)            | |
-| AWS, GPU support                        | |
-| Cheaper than AWS (pay only for runtime) | |

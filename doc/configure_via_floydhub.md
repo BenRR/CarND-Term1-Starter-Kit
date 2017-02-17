@@ -50,11 +50,12 @@ In your shell, navigate to the directory of a project, e.g.
 $ cd ~/src/CarND-LaneLines-P1
 ```
 
-Download the [floyd_requirements.txt]() file here. Now you can now start running [floyd commands](http://docs.floydhub.com/commands/)
+Download the [floyd_requirements.txt](https://raw.githubusercontent.com/floydhub/CarND-Term1-Starter-Kit/master/floyd_requirements.txt) 
+file here. Now you can now start running [floyd commands](http://docs.floydhub.com/commands/)
 here.
 
 ```bash
-$ wget <url>
+$ wget https://raw.githubusercontent.com/floydhub/CarND-Term1-Starter-Kit/master/floyd_requirements.txt
 ```
 
 Now initialize your project:
