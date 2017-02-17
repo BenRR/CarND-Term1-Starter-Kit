@@ -22,7 +22,7 @@ More info on this is available [here](http://docs.floydhub.com/home/getting_star
 
 ### Setup Floyd
 
-1. Install [floyd-cli](https://pypi.python.org/pypi/floyd-cli) on your machine. Instructions for installation 
+- Install [floyd-cli](https://pypi.python.org/pypi/floyd-cli) on your machine. Instructions for installation 
 is same for all OS:
 
 ```sh
@@ -31,9 +31,9 @@ pip install -U floyd-cli
 
 More info on installation is available [here](http://docs.floydhub.com/home/getting_started/#installing-floyd-cli).
 
-2. Create a [FloydHub account](https://www.floydhub.com/). You get started with Free credits.
+- Create a [FloydHub account](https://www.floydhub.com/). You get started with Free credits.
 
-3. Use the [floyd login](http://docs.floydhub.com/commands/login/) command in the cli to login to FloydHub.
+- Use the [floyd login](http://docs.floydhub.com/commands/login/) command in the cli to login to FloydHub.
 
 ---
 
