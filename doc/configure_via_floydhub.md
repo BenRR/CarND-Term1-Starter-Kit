@@ -54,14 +54,14 @@ $ cd ~/src/CarND-LaneLines-P1
 ```
 
 Download the [floyd_requirements.txt](https://raw.githubusercontent.com/floydhub/CarND-Term1-Starter-Kit/master/floyd_requirements.txt) 
-file here. Now you can now start running [floyd commands](http://docs.floydhub.com/commands/)
+file here. 
 here.
 
 ```bash
 $ wget https://raw.githubusercontent.com/floydhub/CarND-Term1-Starter-Kit/master/floyd_requirements.txt
 ```
 
-Now initialize your project:
+Now you can now start running [floyd commands](http://docs.floydhub.com/commands/). First initialize your project:
 
 ```sh
 floyd init CarND-LaneLines-P1
@@ -83,7 +83,7 @@ If you need an environment with GPU setup, just add `--gpu` to the run command.
 floyd run --gpu --mode jupyter
 ```
 
-To learn more about FloydHub [visit the docs](http://docs.floydhub.com/)
+To learn more about FloydHub by [visiting the docs](http://docs.floydhub.com/)
 
 ### Upload delay
 
