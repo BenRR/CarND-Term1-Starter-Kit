@@ -17,7 +17,7 @@ Supported Systems : AWS (CPU, [GPU](doc/docker_for_aws.md))
 | Pros                                    | Cons                                 |
 |-----------------------------------------|--------------------------------------|
 | Simple to use                           | No local environment                 |
-| Zero setup (managed service)            | |
+| Zero setup - Deep learning environments preinstalled            | |
 | AWS, GPU support                        | |
 | Cheaper than AWS (pay only for runtime) | |
 
