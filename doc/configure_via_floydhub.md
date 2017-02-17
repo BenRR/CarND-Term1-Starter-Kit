@@ -42,7 +42,7 @@ floyd login
 
 ### Run your code on Floyd
 
-The list of dependencies dependencies required for the first 
+The list of dependencies required for the first 
 term projects is added to `floyd_requirements.txt` file. 
 These will be pre-installed before your code is run. Make sure that this file 
 is present at the root of your project directory.
