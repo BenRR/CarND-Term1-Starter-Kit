@@ -1,5 +1,4 @@
 matplotlib
-opencv3
 pillow
 scikit-learn
 scikit-image
